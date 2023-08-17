@@ -1,0 +1,6 @@
+framework module Pods_project_appchat {
+  umbrella header "Pods-project_appchat-umbrella.h"
+
+  export *
+  module * { export * }
+}
